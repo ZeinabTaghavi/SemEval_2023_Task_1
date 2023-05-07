@@ -34,7 +34,7 @@ Two text-to-image models, GLIDE and DALL-E 2, are used to generate images from t
 
 1. Clone the repository.
 2. Install the required dependencies.
-3. Prepare your dataset and configure the paths in the `config.py` file.
+3. Prepare your dataset.
 4. Run the experiments in jupyter notebook.
 
 ## Acknowledgements
